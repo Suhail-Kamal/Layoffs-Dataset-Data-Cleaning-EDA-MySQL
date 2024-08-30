@@ -1,2 +1,2 @@
-# Portfolio-Project---Data-Cleaning-SQL
-Data Cleaning Project - SQL
+# Portfolio-Project--Data-Cleaning-SQL
+Data Cleaning Project - MySQL
